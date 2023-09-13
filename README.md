@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on a Task Management Site
  🌱 I’m currently learning Java
 👯 I’m looking to collaborate on Web Development Project
 - 🤔 I’m looking for help with ...
