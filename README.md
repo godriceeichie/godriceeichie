@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on a Portfolio Website
-### 🌱 I’m currently learning Java
-### 👯 I’m looking to collaborate on a Web Development Project
+### 🔭 I’m currently working on a Something Exciting
+### 🌱 I’m currently learning Dart
+### 👯 I’m looking to collaborate on a Software Engineering Project
 ### 💬 Ask me about anything tech
 ### 📫 How to reach me: godriceonuwa@gmail.com
 <!-- ![image](https://github.com/godriceeichie/godriceeichie/assets/112476884/59ef5fef-4790-4448-8a1c-97c726576d88)
